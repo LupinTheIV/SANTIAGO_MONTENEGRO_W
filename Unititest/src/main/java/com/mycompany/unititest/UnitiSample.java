@@ -20,7 +20,7 @@ public class UnitiSample {
     public static Scanner sc = new Scanner(System.in); 
     public static void main(String[] args) {
         
-        System.out.println("--Wellcome--");
+        System.out.println("--Welcome--");
         int userResult;
         do{  
         System.out.println("\n1. Add next number");
@@ -80,5 +80,5 @@ public class UnitiSample {
             }
         }while(userResult != 19);
     }
-    
+    //Prueba Commit
 }
